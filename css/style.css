@@ -183,14 +183,21 @@ footer{
         background-color:rgb(241, 241, 241,0.5);
     }
     .header-section{
-        width: 94%;
+        width: 92%;
+        padding: 15px;
         margin-top: -10px;
     }
     .head{
-        margin: 0px 2%;
+        margin: 0px 1%;
     }
     header{
         background-image:url('../images/01.jpg');
+    }
+    .section{
+        padding: 10px;
+    }
+    .prof {
+         left: 0px;
     }
   
 }
