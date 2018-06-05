@@ -180,7 +180,8 @@ footer{
         margin-left: 25%;
     }
     .header-collaps{
-        background-color:rgb(241, 241, 241,0.5);
+        background-color:rgba(255, 255, 255, 0.8);
+        padding:20px 0px;
     }
     .header-section{
         width: 92%;
@@ -191,7 +192,7 @@ footer{
         margin: 0px 1%;
     }
     header{
-        background-image:url('../images/01.jpg');
+        background-image:url('../images/head.jpg');
     }
     .section{
         padding: 10px;
